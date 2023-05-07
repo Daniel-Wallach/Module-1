@@ -1,4 +1,3 @@
-# Module 1 Challenge
 ## Report - Crowdfunding Trend Analysis
 ### Conclusions
 
