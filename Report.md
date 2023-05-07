@@ -19,3 +19,11 @@
 ### Other Possibilities for Visualizing Data
 
   •	We could create a table that tracks average donation per country, or per category, filterable by the second factor. A clustered bar or column graph can visualize the data. This could tell us which countries and/org categories tend to draw larger donors, which can factor into location- or category- specific campaigns (do we cast a wide net or go after big fish?).
+  
+  •	We could use a box plot or scatter plot to help identity outliers to factor in to our other analyses.
+
+### Statistical Analysis
+
+  •	There are significant outliers in this data, with a few high backer-count campaigns skewing the data (I've included box plots to visualize this). The high variance and standard deviation numbers demonstrate this. Therefore, the median gives a better picture of the typical number of backers for both successful and unsuccessful campaigns. This number is closer to the minimum than the mean.
+  
+  •	There is more variability with successful campaigns. This makes sense given the wider range of backers and skewed numbers - the mean is much higher than unsuccessful campaigns indicating more high backer-count campaigns, while the median is almost the same.
