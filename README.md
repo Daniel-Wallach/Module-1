@@ -33,7 +33,7 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
 
 - Create a stacked-column pivot chart that can be filtered by country based on the table that you created.
 
-- Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-**category**.
+- Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
 - Create a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
 
