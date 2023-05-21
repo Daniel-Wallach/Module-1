@@ -1,5 +1,5 @@
 
-# Module-1 Challenge
+# Module 1 Challenge - Excel
 
 - Worksheets included in **CrowdfundingBook_1.xlsx**
 
